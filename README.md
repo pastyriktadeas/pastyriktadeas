@@ -1,12 +1,11 @@
 - 👋 Ahoj, já jsem @pastyriktadeas
 - 🌱 Momentálně pracuji na automatizaci domácnosti
 - 🏫 <a href="https://www.spseplzen.cz/">SPŠE</a>
-  - Skills
-      - Bash
-      - Linux
-      - Docker
-      - Docker compose
-      - IoT
+  - Bash
+  - Linux
+  - Docker
+  - Docker compose
+  - IoT
 
 <!---
 pastyriktadeas/pastyriktadeas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
