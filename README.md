@@ -1,4 +1,4 @@
-# 👋 Ahoj, jsem [TvojeJméno]  
+# 👋 Ahoj, jsem Pasťa
 
 Jsem technický nadšenec, který má IT jako dlouhodobého koníčka ⚙️  
 Vystudoval jsem **SPŠE**, ale nakonec mě osud zavedl k **právům v Plzni** ⚖️  
