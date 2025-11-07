@@ -14,9 +14,6 @@ I tak mě ale stále baví technologie, bastlení a správa vlastních systémů
 - 🍎 **Apple ekosystém** – využívám pro denní práci, synchronizaci a testování  
 
 ---
-
----
-
 ### 🧠 Aktuálně se zajímám o
 - Základy **Kubernetes** a automatizaci deploymentů  
 - **Bezpečnost v domácích sítích** a VPN  
