@@ -31,7 +31,7 @@ I tak mě ale stále baví technologie, bastlení a správa vlastních systémů
 
 ### 📫 Kontaktuj mě
 - 🌐 [GitHub](https://github.com/tvoje_jmeno)  
-- ✉️ [tvoje@email.cz](mailto:pastyriktadeas.cz)  
+- ✉️ [pastyriktadeas@seznam.cz](mailto:pastyriktadeas@seznam.cz)  
 
 ---
 
